@@ -1,7 +1,7 @@
 # system-design-interview-volume-2
 
 - [0장. 서문](/contents/chapter-00.md)
-- [1장. 근접성 서비스](/contents/chapter-01.md)
+- [1장. 근접성 서비스](/contents/chapter-01/README.md)
 - 2장. 주변 친구
 - 3장. 구글 맵
 - 4장. 분산 메시지 큐
